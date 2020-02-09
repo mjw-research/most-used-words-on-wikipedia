@@ -1,4 +1,8 @@
-# most-used-words-on-wikipedia
+# Most used words on Wikipedia
+
+**The full list is way to big for GitHub (~1GB).**
+
+**If you want the full list you will have to build it by your own like this:**
 
 1. Download a Wikipedia dump from here: https://dumps.wikimedia.org/enwiki/
 2. Extract the file (`bzip2 -d FILE`)
